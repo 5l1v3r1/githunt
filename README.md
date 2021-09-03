@@ -1,4 +1,5 @@
-# GitHunt
+![githunt_2](https://user-images.githubusercontent.com/74001397/132065910-7f1b15b9-57ee-4907-ba28-87f3212344d1.png)
+
 ![Python Version](https://img.shields.io/badge/python-3.x-blue?style=flat&logo=python)
 ![OS](https://img.shields.io/badge/OS-GNU%2FLinux-red?style=flat&logo=linux)
 ![GitHub](https://img.shields.io/github/license/rlyonheart/githunt?style=flat)
