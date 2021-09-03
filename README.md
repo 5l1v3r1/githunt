@@ -21,4 +21,14 @@
   
 **Example**
 > <code> $ python githunt.py rlyonheart</code>
-  
+  ![githunt_1](https://user-images.githubusercontent.com/74001397/132064122-1ac79aeb-99ae-496a-9838-915947ae18fd.jpg)
+
+# Help
+> <code> $ python githunt.py -h</code>
+
+*Or*
+> <code> $ python githunt.py --help</code>
+![githunt_3](https://user-images.githubusercontent.com/74001397/132064578-ac716014-e4e6-46fa-bc5f-d57fb3d53742.jpg)
+
+
+*Made with 🖤 by* [rly0nheart](https://about.me/rlyonheart)
