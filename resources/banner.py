@@ -8,4 +8,5 @@ banner = f"""{green}
 ·▀▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀ · ▀▀▀ ▀▀ █▪ ▀▀▀ 
 {red}Disclaimer{white}:
 This tool was developed for educational purposes and should not be used in environments
-without legal authorization.{reset}"""
+without legal authorization.{reset}
+"""
