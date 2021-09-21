@@ -22,7 +22,8 @@
   
 **Example**
 > <code> $ python githunt.py rlyonheart</code>
-  ![githunt_1](https://user-images.githubusercontent.com/74001397/132064122-1ac79aeb-99ae-496a-9838-915947ae18fd.jpg)
+![githunt](https://user-images.githubusercontent.com/74001397/134128478-9b197db4-a2a3-498d-a14e-246c93c8797b.gif)
+
 
 # Help
 > <code> $ python githunt.py -h</code>
