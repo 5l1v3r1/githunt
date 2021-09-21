@@ -30,7 +30,8 @@
 
 *Or*
 > <code> $ python githunt.py --help</code>
-![githunt_3](https://user-images.githubusercontent.com/74001397/132064578-ac716014-e4e6-46fa-bc5f-d57fb3d53742.jpg)
+![githunt_h](https://user-images.githubusercontent.com/74001397/134130619-097527de-7fdb-4ac8-8298-f936e10068a1.gif)
+
 
 
 *Made with 🖤 by* [rly0nheart](https://about.me/rlyonheart)
