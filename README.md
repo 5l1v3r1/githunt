@@ -11,25 +11,35 @@
 
 # Installation
 **Clone this repo**:
-> <code> $ git clone https://github.com/rlyonheart/githunt.git</code>
+```
+$ git clone https://github.com/rlyonheart/githunt.git
   
-> <code> $ cd githunt</code>
+$ cd githunt</code>
 
-> <code> $ pip install -r requirements.txt</code>
+$ pip install -r requirements.txt
+```
   
 # Usage
-> <code> $ python githunt.py USERNAME</code>
+```
+$ python githunt.py USERNAME
+```
   
 **Example**
-> <code> $ python githunt.py rlyonheart</code>
+```
+$ python githunt.py rlyonheart
+```
 ![githunt](https://user-images.githubusercontent.com/74001397/134128478-9b197db4-a2a3-498d-a14e-246c93c8797b.gif)
 
 
 # Help
-> <code> $ python githunt.py -h</code>
+```
+$ python githunt.py -h
+```
 
 *Or*
-> <code> $ python githunt.py --help</code>
+```
+$ python githunt.py --help
+```
 ![githunt_h](https://user-images.githubusercontent.com/74001397/134130619-097527de-7fdb-4ac8-8298-f936e10068a1.gif)
 
 
