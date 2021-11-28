@@ -14,7 +14,7 @@
 ```
 $ git clone https://github.com/rlyonheart/githunt.git
   
-$ cd githunt</code>
+$ cd githunt
 
 $ pip install -r requirements.txt
 ```
